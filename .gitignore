@@ -1,0 +1,33 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Log files
+*.log
+
+# Node modules (if applicable)
+node_modules/
+
+# Build directories
+dist/
+build/
+
+# Environment files
+.env
+
+# Temporary files
+tmp/
+*.tmp
+
+# Other common ignores
+*.bak
+*.swp
+*.lock
