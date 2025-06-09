@@ -1,0 +1,1 @@
+export { supabase } from '../../../../packages/utils/src/supabaseClient';
